@@ -126,7 +126,7 @@ npx wrangler publish
 
 ## 📜 Licencia
 
-    Desarollador de Software:
+    Desarollador de Software:William Cubero Navarro  
 MIT © William Cubero Navarro  
 Puedes usar, modificar y distribuir este proyecto con libertad.
 
