@@ -3,7 +3,9 @@
 Una API REST desarrollada por **William Cubero Navarro**, que permite consultar, registrar, modificar y eliminar información de vehículos disponibles en el mercado costarricense. Ideal para análisis comparativo, ranking de rendimiento y precios por categoría.
 
 🔗 Demo: [api-william.datapiwilliam.workers.dev]([https://api-william.datapiwilliam.workers.dev](https://api-william.datapiwilliam.workers.dev/api/autos)
+
 📘 Documentación rápida: [`/api/docs`](https://api-william.datapiwilliam.workers.dev/api/docs)  
+
 👨‍💻 Desarrollador: [William Cubero en LinkedIn](https://www.linkedin.com/in/william-cubero-navarro-75880727a/)
 
 ---
